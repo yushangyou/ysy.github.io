@@ -51,7 +51,7 @@
 }
 .aplayer.aplayer-narrow {
   width: 66px;
-  left: 22px;
+  left: 10px;
   bottom: 27px;
   position: fixed;
 }
@@ -703,5 +703,3 @@
     transform: rotate(1turn);
   }
 }
-
-/*# sourceMappingURL=APlayer.min.css.map*/
