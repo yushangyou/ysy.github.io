@@ -1,13 +1,13 @@
 //  主页面气泡
 
 /*
- * @Author: tzy1997
- * @Date: 2020-12-15 20:55:25
- * @LastEditors: tzy1997
- * @LastEditTime: 2021-01-12 19:02:25
+ * @Author: yushangyou
+ * @Date: 2022-10-1 10:55:25
+ * @LastEditors: yushangyou
+ * @LastEditTime: 2022-10-1 19:02:25
  */
 
-$(function () {
+(function () {
 
     // 气泡
     function bubble() {
