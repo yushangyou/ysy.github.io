@@ -12,4 +12,4 @@ aplayer: true
 
 ### 万物有灵 ✨
 
-  <div class="aplayer no-destroy" data-id="7692780743" data-server="tencent" data-type="playlist"   data-order="list" data-preload="auto" data-autoplay="false" data-mutex="true" ></div>
+  <div class="aplayer no-destroy" data-id="7685703293" data-server="netease" data-type="playlist"   data-order="list" data-preload="auto" data-autoplay="false" data-mutex="true" data-lrcType="0"></div>
